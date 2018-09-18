@@ -55,7 +55,7 @@ a.external-link:hover {
 .overlay {
   position: absolute;
   background-color: #3489CA;
-  opacity: 0.8;
+  opacity: 0.7;
   top: 0;
   left: 0;
   height: 100%;
@@ -80,6 +80,7 @@ a.external-link:hover {
   min-height: 35rem;
   height: 100%;
   background-color: #5A5F5F;
+  opacity: 0.4;
   -webkit-transform: skewY(4deg);
   transform: skewY(4deg);
   -webkit-transform-origin: bottom right;
@@ -161,6 +162,7 @@ a.external-link:hover {
   display: block;
   color: #E2DFDF;
   background-color: #5A5F5F;
+  opacity: 0.6;
   border-radius: 100%;
   font-size: 2rem;
   line-height: 4rem;
