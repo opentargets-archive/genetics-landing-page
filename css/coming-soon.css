@@ -55,7 +55,7 @@ a.external-link:hover {
 .overlay {
   position: absolute;
   background-color: #3489CA;
-  opacity: 0.6;
+  opacity: 0.8;
   top: 0;
   left: 0;
   height: 100%;
@@ -202,7 +202,8 @@ a.external-link:hover {
   }
 }
 
-.btn-secondary {
+.btn-secondary,
+.subscribe-btn {
   background-color: #00A252;
   border-color: #00A252;
   opacity: 0.9;
