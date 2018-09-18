@@ -17,7 +17,7 @@ h4,
 h5,
 h6 {
   font-weight: 700;
-  color:  white;
+  color:  #ffffff;
 }
 
 video {
@@ -159,7 +159,7 @@ a.external-link:hover {
 
 .social-icons ul > li > a {
   display: block;
-  color: white;
+  color: #E2DFDF;
   background-color: #5A5F5F;
   border-radius: 100%;
   font-size: 2rem;
@@ -198,7 +198,8 @@ a.external-link:hover {
     width: 4rem;
   }
   .social-icons ul > li > a:hover {
-    background-color: #3489CA;
+    background-color: #E2DFDF;
+    color: #5A5F5F
   }
 }
 
