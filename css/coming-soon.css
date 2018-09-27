@@ -39,7 +39,7 @@ a.external-link {
 }
 
 a.external-link:hover {
-  color: #3489CA;
+  color: #ACD1E8;
 }
 
 @media (pointer: coarse) and (hover: none) {
