@@ -42,6 +42,7 @@ a.external-link:hover {
   color: #ACD1E8;
 }
 
+
 @media (pointer: coarse) and (hover: none) {
   body {
     background: url("../img/bg-mobile-dna-puzzle.jpg") #5A5F5F no-repeat center center scroll;
